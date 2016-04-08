@@ -1,7 +1,7 @@
 name: 'Milk Studio!'
 favicon: null
-layout_spectrum: 0.03774572187103331
-typography_spectrum: 0.5751180665101856
+layout_spectrum: 0.99674
+typography_spectrum: 0.51547
 cta:
   domain: null
   bucket: null
