@@ -1,0 +1,28 @@
+name: 'Milk Studio!'
+favicon: null
+layout_spectrum: 0.03774572187103331
+typography_spectrum: 0.5751180665101856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13117650034837425
+  lightness: 0.05508338497020304
+  saturation: 0.9296218808740377
+  rhythmicContrast: 0.9051893514115363
+purpose: []
