@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Milk Studio!]]></title>
         <description><![CDATA[Milk Studio!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/milk-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 03:52:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 03:56:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/milk-studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8701d3fe-1548-441c-bde5-e0a0ceb689cc.png">]]></description>
-            <link>undefinedartists-for-hire-your-one-stop-for-mexican-talent-from-sk/index.html</link>
+            <link>https://thegrid.ai/milk-studio/artists-for-hire-your-one-stop-for-mexican-talent-from-sk/index.html</link>
             <guid isPermaLink="false">9906ce33-32e9-4c8f-96b1-7594c3437e04</guid>
-            <pubDate>Fri, 08 Apr 2016 03:51:56 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2016 03:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
