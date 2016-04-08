@@ -1,4 +1,4 @@
-layout_spectrum: 0.5949821
+name: 'Milk Studio!'
 opengraph:
   image: null
   type: null
@@ -9,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5
-  brandStrength: 0.1311765003483742
+  brandStrength: 0.5430108
   lightness: 0.5053763
   brandColors:
     - '#F7EDF0'
@@ -26,7 +26,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  rhythmicContrast: 0.9051893
+  rhythmicContrast: 0.469534
 typography_spectrum: 0.5751180665101856
 cta:
   bucket: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: 'Milk Studio!'
+layout_spectrum: 0.5949821
