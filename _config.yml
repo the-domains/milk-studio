@@ -1,28 +1,40 @@
-name: 'Milk Studio!'
 favicon: null
-layout_spectrum: 0.48465
-typography_spectrum: 0.51547
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: 'Milk Studio!'
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#a0a0a0'
-    - '#686560'
-    - '#dad7d0'
-    - '#df606f'
-  brandStrength: 0
-  lightness: 0.3125
-  saturation: 0
-  rhythmicContrast: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 0.1311765003483742
+  lightness: 0.5053763
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  rhythmicContrast: 0.9051893
+typography_spectrum: 0.5751180665101856
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.03774572187103331
+analytics:
+  twitter: null
+  google: null
+  facebook: null
