@@ -10,18 +10,18 @@ description: >+
   digital art, a great variety of styles to choose from
 
 
-datePublished: '2016-04-08T03:51:56.647Z'
-dateModified: '2016-04-08T03:50:08.584Z'
+datePublished: '2016-04-08T03:55:41.294Z'
+dateModified: '2016-04-08T03:53:24.621Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-08-artists-for-hire-your-one-stop-for-mexican-talent-from-sk.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-artists-for-hire-your-one-stop-for-mexican-talent-from-sk.md
-published: true
 url: artists-for-hire-your-one-stop-for-mexican-talent-from-sk/index.html
 _type: Article
 
